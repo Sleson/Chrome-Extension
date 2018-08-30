@@ -10,9 +10,8 @@
 "default_title": "Have a chill day"
 },
 
-//"browser_action": {
-//"defualt_popup": "popup.html",
-//},
+"defualt_popup": "popup.html",
+},
 
 "chrome_url_overrides":{
 "newtab": "newtab.html"
