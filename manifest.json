@@ -1,7 +1,7 @@
 {
 "manifest_version": 2,
-"name": "RaterFox",
-"description": "See popular movies and TV shows in your tab. Check out summaries, ratings, and trailers.",
+"name": "GeneralChromeExtension",
+"description": "A chrome extension that doesn't do too much... yet!",
 "version": "1",
 "author": "Stacy Leson",
 
