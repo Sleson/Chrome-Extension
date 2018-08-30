@@ -1,0 +1,22 @@
+{
+"manifest_version": 2,
+"name": "RaterFox",
+"description": "See popular movies and TV shows in your tab. Check out summaries, ratings, and trailers.",
+"version": "1",
+"author": "Stacy Leson",
+
+"browser_action": {
+"default_icon": "tab-icon.png",
+"default_title": "Have a chill day"
+},
+
+"browser_action": {
+"defualt_popup": "popup.html",
+},
+
+"chrome_url_overrides":{
+"newtab": "newtab.html"
+},
+
+"permissions": ["activeTab'}
+}
